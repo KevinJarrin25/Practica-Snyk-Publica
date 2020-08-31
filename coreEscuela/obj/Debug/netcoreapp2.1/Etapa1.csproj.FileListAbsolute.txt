@@ -1,0 +1,32 @@
+C:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.deps.json
+C:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.json
+C:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.dev.json
+c:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.dll
+c:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.pdb
+c:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.csprojAssemblyReference.cache
+c:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfoInputs.cache
+c:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfo.cs
+c:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.dll
+c:\Users\Usuario\desktop\Teban\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.pdb
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.deps.json
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.json
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.dev.json
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.pdb
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfo.cs
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\Sifizsoft\Desktop\Sifizsoft\Esteban Córdova Álvarez\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.pdb
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.deps.json
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.json
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.dev.json
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\bin\Debug\netcoreapp2.1\Etapa1.pdb
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfo.cs
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.pdb
+C:\Users\Sifizsoft S.A\Desktop\Sifizsoft\Esteban Córdova Álvarez\Personal\Sifizsoft\Proyectos\Desarrollo Multiplataforma\Proyectos CSharp\coreEscuela\obj\Debug\netcoreapp2.1\Etapa1.genruntimeconfig.cache
